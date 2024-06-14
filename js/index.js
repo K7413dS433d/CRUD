@@ -106,7 +106,7 @@ function btn_function() {
   <td>
     <a
       class="btn text-decoration-none px-2 py-1 rounded-2"
-      href="${data.UrlName}"
+      href="${data.URL}"
       target="_blank"
       ><i class="fa-solid text-white me-1 fa-eye"></i> Visit</a
     >
