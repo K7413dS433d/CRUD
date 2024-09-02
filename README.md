@@ -14,7 +14,7 @@ Bookmarker is a web application designed to help you save and manage your favori
 
 ## Live Demo Link
 
-Check out the live demo of the Bookmarker app [here](your-live-demo-link).
+Check out the live demo of the Bookmarker app [here](https://crud-chi-flax.vercel.app/).
 
 ## Video
 
