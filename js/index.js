@@ -138,7 +138,7 @@ function search(val) {
       <td>
         <a
       class="btn text-decoration-none px-2 py-1 rounded-2"
-      href="${allData[i].UrlName}"
+      href="${allData[i].URL}"
       target="_blank"
       ><i class="fa-solid text-white me-1 fa-eye"></i> Visit</a
         >
