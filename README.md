@@ -18,5 +18,6 @@ Check out the live demo of the Bookmarker app [here](https://crud-chi-flax.verce
 
 ## Video
 
-Watch a quick demo of the Bookmarker in action [here](your-video-link).
+Watch a quick demo of the Bookmarker in action
 
+https://github.com/user-attachments/assets/5a3efeb6-b994-4a5e-bc00-afc8f036614d
